@@ -1,0 +1,9 @@
+*.opt
+*.precompilecache
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+
+visu/
+PlcLogic/
+_cnc/
