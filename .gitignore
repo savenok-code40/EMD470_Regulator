@@ -3,6 +3,7 @@
 *.bootinfo
 *.bootinfo_guids
 *.compileinfo
+*.~u
 
 visu/
 PlcLogic/
