@@ -4,7 +4,10 @@
 *.bootinfo_guids
 *.compileinfo
 *.~u
+*.txt
+
 
 visu/
 PlcLogic/
 _cnc/
+!Теория/
